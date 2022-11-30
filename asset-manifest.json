@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hulu_clone/static/css/main.b5b97d8f.css",
+    "main.js": "/hulu_clone/static/js/main.a4e0dbb6.js",
+    "static/js/787.f017d37e.chunk.js": "/hulu_clone/static/js/787.f017d37e.chunk.js",
+    "index.html": "/hulu_clone/index.html",
+    "main.b5b97d8f.css.map": "/hulu_clone/static/css/main.b5b97d8f.css.map",
+    "main.a4e0dbb6.js.map": "/hulu_clone/static/js/main.a4e0dbb6.js.map",
+    "787.f017d37e.chunk.js.map": "/hulu_clone/static/js/787.f017d37e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b97d8f.css",
+    "static/js/main.a4e0dbb6.js"
+  ]
+}
